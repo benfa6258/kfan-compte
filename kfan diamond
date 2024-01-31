@@ -1,0 +1,156 @@
+{
+  "Ads":{
+    "ClickCount":1,
+    "PriorityBanner":"admob",
+    "SplashInterstitial":"admob",
+    "PriorityInterstitial":"admob",
+    "PriorityNative":"admob",
+    "PriorityReward":"iron",
+    "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+    "AdmobReward":"ca-app-pub-3940256099942544/5224354917",
+    "IronAppKey":"xxxxx",
+    "IronBanner":"DefaultBanner",
+    "IronInterstitial":"DefaultInterstitial",
+    "IronReward":"DefaultRewardedVideo",
+    "MaxBanner":"xxxxx",
+    "MaxInterstitial":"xxxxxx",
+    "MaxNative":"xxxxxxx",
+    "MaxReward":"xxxxxx"
+  },
+  "RobloxSkins":[
+    {
+      "id":1,
+      "SkinImage":"https://i.ytimg.com/vi/ExOzYRGzBdo/maxresdefault.jpg",
+      "SkinName":"Gaming Kitty Headphones (Pink)",
+      "SkinUserName":"@md17_RBLX",
+      "SkinLink":"https://www.roblox.com/catalog/6502214579/Gaming-Kitty-Headphones-Pink",
+      "IsSkinPremium":true,
+      "Viewtype":1
+
+    },
+    {
+       "id":2,
+      "SkinImage":"https://tr.rbxcdn.com/d1bf29bebf7dfbd410e9da4fa19929c3/420/420/Hat/Png",
+      "SkinName":"Panda Hat",
+      "SkinUserName":"@md17_RBLX",
+      "SkinLink":"https://www.roblox.com/catalog/6130117342/Panda-Ears-Headband-Green",
+      "IsSkinPremium":false,
+      "Viewtype":1
+
+    },
+    {
+      "id":3,
+      "SkinImage":"https://tr.rbxcdn.com/928636f307cab4a199ea5ebfa1d5929c/420/420/Hat/Png",
+      "SkinName":"Gaming Kitty Headphones (Pink)",
+      "SkinUserName":"@md17_RBLX",
+      "SkinLink":"https://www.roblox.com/catalog/6502214579/Gaming-Kitty-Headphones-Pink",
+      "IsSkinPremium":true,
+      "Viewtype":1
+
+    },
+    {
+     "Viewtype":2
+    },
+    {
+      "id":4,
+      "SkinImage":"https://tr.rbxcdn.com/928636f307cab4a199ea5ebfa1d5929c/420/420/Hat/Png",
+      "SkinName":"Gaming Kitty Headphones (Pink)",
+      "SkinUserName":"@md17_RBLX",
+      "SkinLink":"https://www.roblox.com/catalog/6502214579/Gaming-Kitty-Headphones-Pink",
+      "IsSkinPremium":true,
+      "Viewtype":1
+
+    },
+    {
+       "id":5,
+      "SkinImage":"https://tr.rbxcdn.com/d1bf29bebf7dfbd410e9da4fa19929c3/420/420/Hat/Png",
+      "SkinName":"Panda Hat",
+      "SkinUserName":"@md17_RBLX",
+      "SkinLink":"https://www.roblox.com/catalog/6130117342/Panda-Ears-Headband-Green",
+      "IsSkinPremium":false,
+      "Viewtype":1
+
+    },
+    {
+      "id":6,
+      "SkinImage":"https://tr.rbxcdn.com/928636f307cab4a199ea5ebfa1d5929c/420/420/Hat/Png",
+      "SkinName":"Gaming Kitty Headphones (Pink)",
+      "SkinUserName":"@md17_RBLX",
+      "SkinLink":"https://www.roblox.com/catalog/6502214579/Gaming-Kitty-Headphones-Pink",
+      "IsSkinPremium":true,
+      "Viewtype":1
+
+    },
+    {
+     "Viewtype":2
+    }
+    ],
+    "RobloxGuide":[
+    {
+      "GuideImage":"https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "GuideTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "GuideDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Viewtype":1
+
+    },
+    {
+      "GuideImage":"https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "GuideTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "GuideDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Viewtype":1
+
+    },
+         {
+      "Viewtype":2
+
+    },
+    {
+      "GuideImage":"https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "GuideTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "GuideDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Viewtype":1
+
+    },
+    {
+      "GuideImage":"https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "GuideTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "GuideDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Viewtype":1
+
+    },
+         {
+      "Viewtype":2
+
+    },
+    {
+      "GuideImage":"https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "GuideTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "GuideDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Viewtype":1
+
+    },
+    {
+      "GuideImage":"https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "GuideTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "GuideDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Viewtype":1
+
+    },
+    {
+      "GuideImage":"https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "GuideTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "GuideDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Viewtype":1
+
+    },
+    {
+      "GuideImage":"https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "GuideTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "GuideDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Viewtype":1
+
+    }
+    ]
+}
